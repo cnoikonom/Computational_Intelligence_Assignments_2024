@@ -1,2 +1,7 @@
-# Computational_Intelligence_Assignments_2024
-Linear PI Controller and Fuzzy Logic Controllers (FLC) Design, Regression and Classification Tasks 
+# Computational Intelligence Assignments (2024)
+
+Assignment for the "Computational Intelligence" Course\
+Faculty of Engineering, AUTh\
+School of Electrical and Computer Engineering\
+Electronics and Computers Department, 8th Semester\
+2024
