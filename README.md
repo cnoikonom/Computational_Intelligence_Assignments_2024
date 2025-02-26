@@ -9,6 +9,7 @@ Electronics and Computers Department, 8th Semester\
 ## Contents
 
 ### 1. Assignment 1: Working Table
+**Problem:** Design and implement a **fuzzy logic controller** to optimize the performance of a given system. Compare the results with a traditional **PI controller**.
 - **Files:**
   - `23_Trapezi-ergasias.pdf`: Assignment description.
   - `PI_controller.mlx`: MATLAB live script for PI controller implementation.
@@ -18,6 +19,7 @@ Electronics and Computers Department, 8th Semester\
   - Simulink models: `table_23_scenario_1.slx`, `table_23_scenario_2.slx`.
 
 ### 2. Assignment 2: Car Control
+**Problem:** Develop a **fuzzy logic-based control system** for an autonomous car to follow a given trajectory efficiently.
 - **Files:**
   - `A_CarControl.pdf`: Assignment description.
   - `Car_Control_A.slx`: Simulink model for car control system.
@@ -25,6 +27,7 @@ Electronics and Computers Department, 8th Semester\
   - `route_plot.m`: MATLAB script for route plotting.
 
 ### 3. Assignment 3: Regression
+**Problem:** Implement **machine learning regression models** to predict certain physical properties based on real-world datasets.
 - **Files:**
   - `Regression.pdf`: Assignment description.
   - `airfoil_self_noise.dat`: Dataset for regression analysis.
@@ -33,11 +36,9 @@ Electronics and Computers Department, 8th Semester\
   - `superconduct.csv`: Additional dataset for regression.
 
 ### 4. Assignment 4: Classification
+**Problem:** Develop and evaluate **classification models** to categorize real-world datasets using various machine learning techniques.
 - **Files:**
   - `Classification.pdf`: Assignment description.
   - `epileptic_seizure_data.csv`, `haberman.data`: Datasets for classification tasks.
   - `classification_a_10268.m`, `classification_b_10268.m`: MATLAB scripts for classification models.
   - `split_scale.m`: MATLAB script for data preprocessing.
-
-
-
